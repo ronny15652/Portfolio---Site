@@ -82,7 +82,7 @@ export default function About() {
             </div>
             <div className="flex gap-x-8 items-center " ref={ref}>
               <button className="btn btn-lg">Contato</button>
-              <a href="https://github.com/ronny15652" className="text-gradient btn-link ">Meu Portifólio</a>
+              <a href="https://github.com/ronny15652" className="text-gradient btn-link ">Trabalhe Comigo</a>
             </div>
           </motion.div>
         </div>
